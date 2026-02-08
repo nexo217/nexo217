@@ -1,7 +1,7 @@
 # nexo217
  ### Hi there, I'm Sten, aka Nexo! 👋
 
-I'm currently 16 years old and I have a passion for game development using Unity.
+I'm currently 17 years old and I have a passion for game development using Unity.
 
 - 🎮 I mainly work with Unity and its API (C#).
 - 🕹️ My GitHub primarily showcases the games I've developed.

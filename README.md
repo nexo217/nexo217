@@ -12,7 +12,7 @@ I'm Sten (17), a student focused on game development and backend systems. I buil
 ### Nova — Personal AI Home Assistant (private project)
 - Prototype in Python with REST integrations  
 - Focus: automations, API integration, and data processing  
-- Repo: https://github.com/nexo217/nova-homeassistant  
+- Repo: https://github.com/nexo217/Ai-Home-Assistant-Nova  
 - Demo: https://www.youtube.com/shorts/B9SGSIoXsuM
 
 ### Math Clash — 1v1 Mobile Math Battle

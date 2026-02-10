@@ -1,38 +1,37 @@
-# nexo217
+# nexo217 - Sten Schnabelrauch
 
-## Hi, I'm Sten (aka Nexo) 👋
+I'm Sten (17), a student focused on game development and backend systems. I build real projects and learn by doing.
 
-I'm a 17-year-old student with a strong interest in software development, game development, and backend systems. I enjoy building real projects and learning by doing.
+## Summary
+- Game development: **Unity (C#)**
+- Backend: Python, REST APIs, server setup and operations
+- Interests: debugging, team collaboration, **learning new tech-skills (quickly!)**
 
-### What I do
-- 💻 Game development with **Unity (C#)**  
-- 🧠 Backend development & basic server infrastructure  
-- 🧪 Debugging, testing, and working in small development teams  
+## Projects
 
-### Experience & Projects
-- 🎮 **Math Clash** – 1v1 online mobile math battle game  
-  - Developed in **Unity (C#)**  
-  - Implemented core gameplay logic  
-  - Designed and programmed the backend  
-  - Set up and managed a dedicated server (currently offline due to hosting costs)  
-  - Google Play: https://play.google.com/store/apps/details?id=com.Styxcon.MathClash
+### Nova — Personal AI Home Assistant (private project)
+- Prototype in Python with REST integrations  
+- Focus: automations, API integration, and data processing  
+- Repo: https://github.com/nexo217/nova-homeassistant  
+- Demo: https://www.youtube.com/shorts/B9SGSIoXsuM
 
-- 🤖 **Nova** – Personal AI Home Assistant (private project)  
-  - Python-based prototype  
-  - Focus on automation, API integration, and data processing  
+### Math Clash — 1v1 Mobile Math Battle
+- Engine: Unity (C#)  
+- Responsible for core gameplay logic and backend  
+- Managed a dedicated server for online multiplayer (currently offline due to hosting costs)  
+- Repo: https://github.com/nexo217/MathClashRepo  
+- Google Play: [Math Clash on Google Play](https://play.google.com/store/apps/details?id=com.Styxcon.MathClash)
 
-- 🚀 **Styxcon** – Volunteer game development team  
-  - ~20 young developers collaborating on game projects  
-  - Team-based development, feature planning, and coordination  
-  - https://linktr.ee/styxcon
 
-### Tech Stack
-- **Languages:** C#, Python  
-- **Tools & Technologies:** Unity, Git, Backend development, REST APIs, Server setup  
-- **Other:** Team collaboration, problem solving, debugging
 
-### Contact
-- 📫 Discord: [nex.o](https://discord.com/users/615596676375380008)
+### Styxcon — Volunteer Game Dev Team
+- ~20 young developers collaborating on game projects  
+- Team-based development, feature planning, and coordination  
+- Link: https://linktr.ee/styxcon
 
-Feel free to explore my repositories.  
-I'm always interested in learning more, improving my skills, and working on meaningful projects.
+## Tech Stack
+- **Languages:** C#, Python, (JavaScript - learning), SQL  
+- **Tools:** Unity, Git/GitHub, REST APIs, basic server setup, MySQL, VSCode
+
+## Contact
+- Discord: nex.o - https://discord.com/users/615596676375380008

@@ -1,6 +1,6 @@
 # nexo217 - Sten Schnabelrauch
 
-I'm Sten (17), a student focused on game development and backend systems. I build real projects and learn by doing.
+I'm Sten (18), a student focused on game development and backend systems. I build real projects and learn by doing.
 
 ## Summary
 - Game development: **Unity (C#)**

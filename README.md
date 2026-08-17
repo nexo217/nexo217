@@ -32,6 +32,3 @@ I'm Sten (18), a student focused on game development and backend systems. I buil
 ## Tech Stack
 - **Languages:** C#, Python, (JavaScript - learning), SQL  
 - **Tools:** Unity, Git/GitHub, REST APIs, basic server setup, MySQL, VSCode
-
-## Contact
-- Discord: nex.o - https://discord.com/users/615596676375380008
